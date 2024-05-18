@@ -1,0 +1,500 @@
+#about-1{
+    width: 100%;
+    display: flex;
+    margin-top: 80px;
+    flex-direction: column;
+}
+
+#about-2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#about-m1{
+    width: 93.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+#about-a1{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: gray;
+    text-decoration: none;
+}
+
+#about-a2{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+    text-decoration: none;
+}
+
+#about-4{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    justify-content: space-between;
+}
+
+#about-t1{
+    font-size: 54px;
+    font-weight: 600;
+    font-family: "Inter";
+    color: #000000;
+    line-height: 64px;
+}
+
+#about-t2{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter";
+    color: #000000;
+    line-height: 26px;
+    width: 37vw;
+    margin-top: 40px;
+}
+
+#about-5{
+    margin-top: 40px;
+}
+
+#pt-1{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Inter";
+    color: #000000;
+    line-height: 30px;
+    margin-top: 28px;
+    margin-bottom: 0px;
+}
+
+#div-9-5{
+    width: 100%;
+    display: none;
+    justify-content: end;
+}
+
+#social1{
+    display: flex;
+    width: 6.3rem;
+    justify-content: space-between;
+    margin-top: 9px;
+}
+
+#button3ab{
+    margin-top: 55px;
+}
+
+#about-info-m1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+
+#about-info-m2{
+    width: 87%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#pt-2{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+    line-height: 24px;
+    margin-top: 6px;
+    margin-bottom: 0px;
+}
+
+#about-t3{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter";
+    color: #000000;
+    line-height: 26px;
+    width: 36vw;
+    margin-top: 20px;
+}
+
+#about-i1{
+    width: 45vw;
+}
+
+#about-1s{
+    border: 1px solid #000000;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 270px;
+    height: 230px;
+    border-radius: 4px;
+}
+
+#about-1s:hover{
+    background-color: #DB4444;
+    box-shadow: 0px 2px 10px 2px #00000033;
+    border: #DB4444;
+}
+
+#about-t4{
+    margin-bottom: 0px;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Inter";
+    color: #000000;
+    line-height: 30px;
+    margin-top: 18px;
+}
+
+#about-t5{
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins";
+    color: #000000;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+#about-sm1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+#about-sm2{
+    width: 87%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width:1025px) and (max-width:1300px) {
+    #about-t2{
+        width: 40vw;
+        font-size: 14px;
+        list-style: 24px;
+        margin-top: 30px;
+        font-weight: 500;
+    }
+
+    #about-1s{
+        border: 1px solid #000000;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        width: 21vw;
+        height: 28vh;
+        border-radius: 4px;
+    }
+
+    #person-1{
+        width: 18rem;
+    }
+
+    #per-i1{
+        width: 18rem;
+    }
+
+    #person-2{
+        width: 18rem;
+    }
+
+    #per-i2{
+        width: 18rem;
+    }
+
+    #person-3{
+        width: 18rem;
+    }
+
+    #per-i3{
+        width: 18rem;
+    }
+
+    #about-t4{
+        margin-bottom: 0px;
+        font-size: 26px;
+        font-weight: 700;
+        font-family: "Inter";
+        color: #000000;
+        line-height: 30px;
+        margin-top: 18px;
+    }
+    
+    #about-t5{
+        margin-bottom: 0px;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Poppins";
+        color: #000000;
+        line-height: 24px;
+        margin-top: 8px;
+    }
+
+    #about-t1{
+        font-size: 46px;
+    }
+
+    #about-5{
+        margin-top: 0px;
+    }
+
+    #about-t3{
+        width: 35vw;
+        font-size: 14px;
+        font-weight: 500;
+        list-style: 24px;
+    }
+
+    #about-i1{
+        width: 49vw;
+    }
+}
+
+@media screen and (min-width:551px) and (max-width:1024px) {
+    #about-1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    #about-sm2{
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #button3ab{
+        margin-top: 55px;
+        display: none;
+    }
+
+    #person-2{
+        margin-top: 50px;
+    }
+
+    #person-3{
+        margin-top: 50px;
+    }
+
+    #about-1s{
+        border: 1px solid #000000;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        width: 270px;
+        height: 230px;
+        border-radius: 4px;
+        margin-bottom: 24px;
+    }
+
+    #about-sm1{
+        margin-top: 100px;
+    }
+
+    #about-info-m2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about-info-m1{
+        margin-top: 80px;
+    }
+
+    #about-4{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    #about-1{
+        width: 100%;
+        display: flex;
+        margin-top: 40px;
+    }
+    
+    #about-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about-t1{
+        width: 100%;
+    }
+    
+    #about-t2{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    #about-t3{
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    #about-m1{
+        width: 87%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #about-i1{
+        width: 100%;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width:550px) {
+    #about-1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 26px;
+    }
+
+    #about-1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    #button3ab{
+        margin-top: 55px;
+        display: none;
+    }
+
+    #about-4{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    #about-1{
+        width: 100%;
+        display: flex;
+        margin-top: 40px;
+    }
+
+    #per-i1{
+        width: 17rem;
+    }
+
+    #per-i2{
+        width: 17rem;
+    }
+
+    #per-i3{
+        width: 17rem;
+    }
+
+    #about-info-m2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #person-1{
+        width: 17rem;
+    }
+
+    #person-2{
+        width: 17rem;
+    }
+
+    #person-3{
+        width: 17rem;
+    }
+
+    #about-info-m1{
+        margin-top: 80px;
+    }
+
+    #person-2{
+        margin-top: 40px;
+    }
+
+    #person-3{
+        margin-top: 40px;
+    }
+
+    #about-sm2{
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #about-1s{
+        border: 1px solid #000000;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        width: 270px;
+        height: 230px;
+        border-radius: 4px;
+        margin-bottom: 24px;
+    }
+
+    #about-sm1{
+        margin-top: 70px;
+    }
+    
+    #about-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about-t1{
+        width: 100%;
+        font-size: 48px;
+    }
+    
+    #about-t2{
+        width: 100%;
+        margin-top: 24px;
+        font-size: 15px;
+    }
+
+    #about-t3{
+        width: 100%;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    #about-m1{
+        width: 87%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #about-i1{
+        width: 100%;
+        margin-top: 24px;
+    }
+
+    #about-5{
+        margin-top: 26px;
+    }
+}

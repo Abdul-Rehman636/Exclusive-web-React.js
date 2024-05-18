@@ -1,0 +1,45 @@
+#card-m1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#card-m2{
+    width: 87%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#heart{
+    display: block;
+}
+
+#heart-2{
+    display: block;
+}
+
+#heart-3{
+    display: block;
+}
+
+#heart-4{
+    display: block;
+}
+
+#heart-5{
+    display: block;
+}
+
+#heart-6{
+    display: block;
+}
+
+#heart-7{
+    display: block;
+}
+
+#heart-8{
+    display: block;
+}
